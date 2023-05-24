@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/arena6.umap",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/HexagonBP/BP_Hexagon.uasset",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/HorkeysTestLevel.umap",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/prefabs/base/basePlats.uasset",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/prefabs/base/basePlats1_c1.uasset",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/HexagonBP/HexagonActor.uasset",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/HexagonBP/BP_HexagonManager.uasset",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/HexagonBP/BP_HexagonGridController.uasset",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/HexagonBP/BP_HexGrid.uasset",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/HexagonBP/HexagonGrid.uasset",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/horkeysthings.umap",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/idjk.umap",
+				"F:/ArtificialFirepower/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/whaty.umap"
+			]
+		}
+	]
+}
